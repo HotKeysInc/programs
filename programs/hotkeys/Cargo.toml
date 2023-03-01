@@ -1,12 +1,12 @@
 [package]
-name = "mint-nft"
+name = "hotkeys"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "mint_nft"
+name = "hotkeys"
 
 [features]
 no-entrypoint = []
@@ -15,10 +15,5 @@ no-log-ix-name = []
 cpi = ["no-entrypoint"]
 default = []
 
-[profile.release]
-overflow-checks = true
-
 [dependencies]
-anchor-lang = "0.24.2"
-mpl-token-metadata = { version="1.2.5", features = [ "no-entrypoint" ] }
-anchor-spl = "0.24.2"
+anchor-lang = "0.26.0"
