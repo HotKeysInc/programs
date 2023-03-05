@@ -3,9 +3,9 @@ import { Program } from "@project-serum/anchor";
 import { Hotkeys } from "../target/types/hotkeys";
 
 describe("hotkeys", () => {
-  const testNftTitle = "Beta";
-  const testNftSymbol = "BETA";
-  const testNftUri = "https://raw.githubusercontent.com/Coding-and-Crypto/Solana-NFT-Marketplace/master/assets/example.json";
+  const testNftTitle = "HotKeys";
+  const testNftSymbol = "";
+  const testNftUri = "https://raw.githubusercontent.com/HotKeysInc/main/assets/test_metadata.json";
 
   const provider = anchor.AnchorProvider.env()
 
