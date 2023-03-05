@@ -5,7 +5,7 @@ import { Hotkeys } from "../target/types/hotkeys";
 describe("hotkeys", () => {
   const testNftTitle = "HotKeys";
   const testNftSymbol = "";
-  const testNftUri = "https://raw.githubusercontent.com/HotKeysInc/main/assets/test_metadata.json";
+  const testNftUri = "https://raw.githubusercontent.com/HotKeysInc/programs/main/assets/test_metadata.json";
 
   const provider = anchor.AnchorProvider.env()
 
