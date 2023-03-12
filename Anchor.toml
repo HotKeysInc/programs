@@ -3,7 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-hotkeys = "3pe5Hxtm7vtyoNXgfDei3DFheisFiZg8Xs8XkVbk4Hsz"
+hotkeys = "2mRwz7BwuAtDMDa3YDs9QunYpjoNkFuh6ciQLNVDJcmN"
 
 [registry]
 url = "https://api.apr.dev"
