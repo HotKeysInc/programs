@@ -1,9 +1,9 @@
 {
-    "name": "HotKeys NFT",
-    "symbol": "",
+    "name": "NF [Key]",
+    "symbol": "HK",
     "description": "Allows access to a plugin",
     "seller_fee_basis_points": 0,
-    "image": "https://raw.githubusercontent.com/HotKeysInc/programs/main/assets/key.png?ext=png",
+    "image": "https://raw.githubusercontent.com/HotKeysInc/programs/main/assets/nf_keys.png?ext=png",
     "background_color": "FFFFFF",
     "external_url": "",
     "properties": {
